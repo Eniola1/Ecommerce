@@ -1,0 +1,158 @@
+header {
+    position: relative;
+    width:2000px;
+    font-size: 36px;
+    color: #FFF;
+    background: #000000;
+    margin-left: -10px;
+    }
+
+    span 
+    {
+      font-family: Calibri;
+      margin-left: 250px;
+    }
+
+
+#menubar 
+{
+width:2000px;
+height:50px;
+background: red;
+color:white;
+margin-left: -8px;
+}
+
+#menu
+{
+ padding: 0px;
+ margin:0px;
+ line-height:35px; 
+}
+
+#menu li 
+{
+  list-style: none;
+  display: inline;
+  margin-left:40px;
+}
+
+#menu a 
+{
+ text-decoration: none;
+ color: white;
+ padding: 8px;
+ margin: 5px;
+ font-size: 18px;
+ font-family: "calibri";
+}
+
+#menu a:hover
+{
+ background-color: black; 
+}
+
+
+#content_wrapper
+{
+width:1000px;
+height:800px;
+margin: auto;
+margin-left: 0px;
+}
+
+#content_area
+{
+width:800px;
+height:800px;
+float:left;
+background:black;
+}
+
+#sidebar 
+{
+width:200px;
+height:800px;
+background:white;
+float: left;
+}
+
+#sidebar_title
+{
+   background:black;
+   color:white;
+   font-size: 22px;
+   font-family: arial;
+   padding:10px;
+   margin-left: -10px;
+
+}
+
+
+#cats li 
+{
+  list-style: none;
+  display:block;
+  margin: 10px;
+  margin-left: 2px;
+}
+
+#cats a
+{
+  color:black;
+  padding: 8px;
+  margin: 5px;
+  text-align: center;
+  font-family: calibri;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#cats a:hover
+{
+  color: red;
+
+}
+
+
+#products_box
+{
+ width: 780px;
+ text-align: center;
+ margin-left: 10px;
+ margin-bottom:-10px;
+}
+
+.single_product
+{
+  float:left;
+  margin-left: 20px;
+  padding:10px;
+}
+
+#shopping_cart
+{
+  width:800px;
+  height:50px;
+  background:black;
+  margin-top: 5px;
+  margin-left: 25px;
+}
+
+.tot
+{
+  background-color: black;
+  color: white;
+  border-top-color: #000000;
+  border-bottom-color: #000000;
+  border-right-color: #000000;
+  border-left-color: #000000;
+}
+
+#footer
+{
+width:2000px;
+height:50px;
+background:red;
+clear:both;
+}

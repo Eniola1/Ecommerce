@@ -1,0 +1,42 @@
+#top {
+    position: relative;
+    width:1350px;
+    background-color: red;
+    float: top;
+    height: 50px;
+    margin-top: -10px;
+    margin-left: -10px;    
+    }
+
+#right
+{
+    width: 700px;
+    height: 700px;
+    background-color: white; 
+    float:right;
+}
+
+#left
+{
+    width: 300px;
+    height: 700px;
+    background-color: black;
+    float:left;
+    margin-left: -10px;
+}
+
+#left a
+{
+   text-decoration: none;
+   display: block;
+   color:white;
+   font-family: calibri;
+   font-size: 20px;
+   padding: 6px;
+   margin-left: 5px; 
+}
+
+#left a:hover
+{
+    color: red;
+}
